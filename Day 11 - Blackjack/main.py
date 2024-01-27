@@ -18,6 +18,8 @@ def calculate_score(cards):
     else:
         return sum(cards)
 
+        
+
 while go_again == "y":
     os.system('cls')
     print(art.logo)
