@@ -7,6 +7,9 @@
 
 #Write your code below this line 👇
 
+
+
+
 print("Welcome to the Tip Calculator!")
 bill = float(input("What was the total bill? "))
 people = int(input("How many people to  split the bill? "))
